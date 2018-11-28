@@ -2,7 +2,7 @@
 <StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
     <sorted>false</sorted>
     <standardValue>
-        <fullName>Prospecting</fullName>
+        <fullName>SomethingElse</fullName>
         <default>false</default>
         <label>Prospecting</label>
         <closed>false</closed>
